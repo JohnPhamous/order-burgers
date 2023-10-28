@@ -17,7 +17,7 @@ export default function RootLayout({
     <html lang="en" className={`${GeistSans.variable} dark`}>
       <Toaster />
 
-      <body className="flex min-h-screen flex-col items-center p-4 gap-8">
+      <body className="flex min-h-screen flex-col items-center p-4 gap-8 dark">
         <div>
           <h1 className="text-4xl font-medium">
             John & Kathy&apos;s Homestyle Kitchen
