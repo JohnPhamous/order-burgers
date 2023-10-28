@@ -14,7 +14,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={GeistSans.variable}>
+    <html lang="en" className={`${GeistSans.variable} dark`}>
       <Toaster />
 
       <body className="flex min-h-screen flex-col items-center p-4 gap-8">
