@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className="flex min-h-screen flex-col items-center p-4 gap-8">
         <div>
           <h1 className="text-4xl font-medium">
-            John & Kathy's Homestyle Kitchen
+            John & Kathy&apos;s Homestyle Kitchen
           </h1>
           <p className="mt-1 text-sm leading-6 text-gray-400 text-left">
             Order some food!
